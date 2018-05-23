@@ -28,6 +28,7 @@ public class ScrollingActivity extends AppCompatActivity {
             decorView.setSystemUiVisibility(option);
             getWindow().setStatusBarColor(Color.TRANSPARENT);
         }
+        //测试
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         final ButtonBarLayout playBtn = findViewById(R.id.playBtn);
