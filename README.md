@@ -1,5 +1,5 @@
 # CoordinatorLayoutTest
-使用CoordinatorLayout+CollapsingToolbarLayout+CollapsingToolbarLayout等布局实现状态栏伸缩折叠
+使用CoordinatorLayout+CollapsingToolbarLayout+AppbarLayout等布局实现状态栏伸缩折叠
 
 
 1.向上滑动，状态栏折叠，向下滑动，状态栏伸缩
